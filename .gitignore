@@ -1,0 +1,16 @@
+# IDE hidden directories
+.vscode/
+.idea/
+.history/
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Chrome extension specific files
+*.pem
+*.crx
+*.key
+*.p12
